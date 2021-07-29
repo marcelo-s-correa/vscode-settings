@@ -1,0 +1,45 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "Jetbrains mono",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "explorer.compactFolders": false,
+    "editor.renderLineHighlight": "gutter",
+    "workbench.editor.labelFormat": "short",
+    "extensions.ignoreRecommendations": true,
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "typescript.updateImportsOnFileMove.enabled": "never",
+    "breadcrumbs.enabled": true,
+    "editor.parameterHints.enabled": false,
+    "editor.formatOnSave": true,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "javascript.suggest.autoImports": true,
+    "typescript.suggest.autoImports": true,
+    "material-icon-theme.folders.color": "#fdd835",
+        "files.exclude": {
+        "node_modules/": true,
+    },
+    "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/*/**": true
+  },
+    "workbench.colorTheme": "Dracula",
+    "eslint.validate": [
+        "javascript",
+        "typescript"
+    ],
+    "tabnine.experimentalAutoImports": true,
+    "window.zoomLevel": 1
+    
+}
