@@ -40,6 +40,12 @@
         "typescript"
     ],
     "tabnine.experimentalAutoImports": true,
-    "window.zoomLevel": 1
-    
+    "editor.wordWrap": "on",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    }
 }
